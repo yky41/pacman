@@ -14,7 +14,10 @@ A custom Pac-Man environment where a DQN agent learns to master gameplay with dy
 
 <br>
 <p align="center">
-<img src="images/gameplay.png" alt="Game Screenshot" style="width:70%;">
+<img src="Enhanced-Pacman-main/images/gameplay.png"
+     alt="Game Screenshot"
+     style="width:70%;">
+
 </p>
 <br>
 
